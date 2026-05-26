@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvalidate",
+        "uuid": 9532424,
+        "checksum": "g6ug6q"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
